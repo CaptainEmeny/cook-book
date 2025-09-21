@@ -10,5 +10,5 @@ export default defineConfig({
     },
   },
   plugins: [react()],
-  base:"/cook-book"
+  base:"/cook-book/"
 })
